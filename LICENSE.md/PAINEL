@@ -1,0 +1,259 @@
+<!doctype html>
+<html>
+<head><title>SEARP </title></head>
+
+<style type="text/css">
+.red {
+	color: #F00;
+    font-size: 20px;
+}
+.cinza {
+	color: #000;
+	font-style: italic;
+	font-weight: bold;
+}
+.caso {
+	color: #0F6;
+}
+.cas {
+	color: #FFF;
+	font-size: 25px;
+}
+.ca {
+	color: #000;
+	font-size: 20px;
+}
+.cds {
+	color: #000;
+   font-size: 22px;
+}
+.sdf {
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+}
+</style>
+<body>
+    
+<table width="1584" height="1216" border="0" cellspacing="0" ><!-- Inicio da tabela  -->
+<tr bgcolor="#0000CC" class="cas">
+	<th height="31" colspan="4"  bgcolor="#0099CC"><b class="cas">T É C N I C O</b></th> <!--Linha com 4 colunas-->
+	<th width="1836" height="31" rowspan="31"  bgcolor="#FFFFFF"><b class="cas"><iframe style="border: 0;" src="http://intra9dsv/QvAJAXZfc/opendoc.htm?document=central%20dashboards%5Csaaca.qvw&host=QVS%40intra9dsv" height="1157px" width="1836" frameborder="0" scrolling="yes"></iframe></th> <!--Linha com 6 colunas-->
+</tr>
+
+<tr class="ca">
+  <td width="149" height="34" bgcolor="#B4C6E7" class="cds"><strong>ALEXANDRE</strong></td>
+  <td width="70" height="34" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Alexandre" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+  <td height="34" align="center" valign="top" bgcolor="#B4C6E7">&nbsp;</td>
+</tr>
+<tr class="ca">
+  <td height="24" bgcolor="#B4C6E7" class="cds"><select name="menu2" onChange="parent.Alexandre.location.href = options[selectedIndex].value">
+    <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+    <option value="c:\painel\amarelo.png">ATENDENDO</option>
+    <option value="c:\painel\verde.png">DISPONÍVEL</option>
+    <option value="c:\painel\contador1.html">INTERVALO</option>
+  </select></td> <!-- Coluna 1 Linha 3 - Tecnicos Alexandre e Marcio -->
+  <td width="3" height="24" align="center" valign="top" bgcolor="#B4C6E7">&nbsp;</td>
+  </tr>
+<tr bgcolor="#D9E1F2" class="ca">
+  <td height="13" class="cds"><strong>BRUNO</strong></td>
+  <td height="13" rowspan="2" class="cds"><iframe name="BRUNO" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+  <td rowspan="2" align="center" valign="middle">&nbsp;</td>
+</tr>
+<tr bgcolor="#D9E1F2" class="ca">
+  <td height="14" class="cds"><span class="cds1">
+    <select name="menu100" onChange="parent.BRUNO.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador1.html">INTERVALO</option>
+    </select>
+  </span></td>
+</tr>
+<tr bgcolor="#D9E1F2" class="ca">
+  <td height="27" bgcolor="#B4C6E7" class="cds"><strong>CONRADO</strong></td>
+  <td rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="CONRADO" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+  <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+</tr>
+<tr bgcolor="#D9E1F2" class="ca">
+  <td height="30" bgcolor="#B4C6E7" class="cds"><select name="menu22" onChange="parent.CONRADO.location.href = options[selectedIndex].value">
+    <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+    <option value="c:\painel\amarelo.png">ATENDENDO</option>
+    <option value="c:\painel\verde.png">DISPONÍVEL</option>
+    <option value="c:\painel\contador1.html">INTERVALO</option>
+  </select></td>
+  <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+</tr>
+<tr bgcolor="#B4C6E7" class="ca">
+  <td height="30" bgcolor="#D9E1F2" class="cds"><strong>EDINEY</strong></td>
+  <td height="30" rowspan="2" bgcolor="#D9E1F2" class="cds"><iframe name="Ediney" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+  <td align="center" valign="middle" bgcolor="#D9E1F2">&nbsp;</td>
+</tr>
+<tr bgcolor="#B4C6E7" class="ca">
+  <td height="30" bgcolor="#D9E1F2" class="cds"><select name="menu5" onChange="parent.Ediney.location.href = options[selectedIndex].value">
+    <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+    <option value="c:\painel\amarelo.png">ATENDENDO</option>
+    <option value="c:\painel\verde.png">DISPONÍVEL</option>
+    <option value="c:\painel\contador.html">INTERVALO</option>
+  </select></td>
+  <td align="center" valign="middle" bgcolor="#D9E1F2">&nbsp;</td>
+  </tr>
+<tr bgcolor="#D9E1F2" class="ca">
+  <td height="30" bgcolor="#B4C6E7" class="cds"><strong>GUSTAVO</strong></td>
+  <td height="30" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Gustavo" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+  <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+</tr>
+<tr bgcolor="#D9E1F2" class="ca">
+  <td height="30" bgcolor="#B4C6E7" class="cds"><select name="menu7" onChange="parent.Gustavo.location.href = options[selectedIndex].value">
+    <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+    <option value="c:\painel\amarelo.png">ATENDENDO</option>
+    <option value="c:\painel\verde.png">DISPONÍVEL</option>
+    <option value="c:\painel\contador1.html">INTERVALO</option>
+  </select></td>
+  <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#B4C6E7" class="ca">
+    <td height="40" bgcolor="#D9E1F2" class="cds"><strong>JOÃO</strong></td>
+    <td height="40" rowspan="2" bgcolor="#D9E1F2" class="cds" ><iframe name="joao" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td height="40" align="center" valign="middle" bgcolor="#D9E1F2">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#B4C6E7" class="ca">
+    <td height="24" bgcolor="#D9E1F2" class="cds"><select name="menu" onChange="parent.joao.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador.html">INTERVALO</option>
+    </select></td>
+    <td height="24" align="center" valign="middle" bgcolor="#D9E1F2">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><strong>MARCIO</strong></td>
+    <td height="30" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Marcio" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="24" bgcolor="#B4C6E7" class="cds"><select name="menu4" onChange="parent.Marcio.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador1.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#B4C6E7" class="ca">
+    <td height="30" bgcolor="#D9E1F2" class="cds"><strong>MARCOS</strong></td>
+    <td height="30" rowspan="2" bgcolor="#D9E1F2" class="cds"><iframe name="Marcos" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" bgcolor="#D9E1F2">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#B4C6E7" class="ca">
+    <td height="24" bgcolor="#D9E1F2" class="cds"><select name="menu6" onChange="parent.Marcos.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" bgcolor="#D9E1F2">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><strong>NELSON</strong></td>
+    <td height="30" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Nelson" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="24" bgcolor="#B4C6E7" class="cds"><select name="menu8" onChange="parent.Nelson.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7">&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" class="cds"><strong>PEDRO</strong></td>
+    <td height="30" rowspan="2" class="cds"><iframe name="Pedro" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="24" class="cds"><select name="menu9" onChange="parent.Pedro.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador1.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><strong>RONALDO</strong></td>
+    <td height="30" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Ronaldo" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="24" bgcolor="#B4C6E7" class="cds"><select name="menu3" onChange="parent.Ronaldo.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" class="cds"><strong>SÓSTENES</strong></td>
+    <td height="30" rowspan="2" class="cds"><iframe name="SÓSTENES" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="24" class="cds"><select name="menu13" onChange="parent.SÓSTENES.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><strong>THIAGO</strong></td>
+    <td height="30" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Thiago" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><select name="menu16" onChange="parent.Thiago.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador1.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" class="cds"><strong>VINICÍUS</strong></td>
+    <td height="30" rowspan="2" class="cds"><iframe name="Vinícius" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="24" class="cds"><select name="menu17" onChange="parent.Vinícius.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><strong>YAGO</strong></td>
+    <td height="30" rowspan="2" bgcolor="#B4C6E7" class="cds"><iframe name="Yago" width="70" height="40" frameborder='0' src='c:\painel\vermelho.png'></iframe></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7" >&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D9E1F2" class="ca">
+    <td height="30" bgcolor="#B4C6E7" class="cds"><select name="menu24" onChange="parent.Yago.location.href = options[selectedIndex].value">
+      <option value="c:\painel\vermelho.png" selected="selected">AUSENTE</option>
+      <option value="c:\painel\amarelo.png">ATENDENDO</option>
+      <option value="c:\painel\verde.png">DISPONÍVEL</option>
+      <option value="c:\painel\contador1.html">INTERVALO</option>
+    </select></td>
+    <td align="center" valign="middle" bgcolor="#B4C6E7" >&nbsp;</td>
+  </tr>
+  
+</table>
+</body>
+</html>
